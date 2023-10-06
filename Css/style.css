@@ -1,0 +1,26 @@
+/* Book_room page booking */
+
+.show-room{
+    border:none;
+    padding-top:2rem;
+    box-shadow: 7px 7px 7px 7px rgba(128, 128, 128, 0.734);
+    box-sizing: border-box;
+    border-radius:2%;
+    margin-bottom: 7rem;
+    margin-top:2rem;
+}
+
+h1{
+    text-align:center;
+}
+
+.show-details, .show-user-details, .admin-show-room{
+    border:none;
+    box-sizing: border-box;
+    border-radius:2%;
+    box-shadow: 7px 7px 7px 7px rgba(128, 128, 128, 0.734);
+}
+
+.show-user-details{
+    margin-bottom: 3rem;
+}
