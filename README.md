@@ -2,7 +2,7 @@
 
 ## Tech Stack Used:
 
-[![My Skills](https://skillicons.dev/icons?i=sql,html,css,bootstrap,php)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=mysql,html,css,bootstrap,php)](https://skillicons.dev)
 
 ## Description
 
@@ -11,4 +11,6 @@ Cancel booking functionality and billing has also been implemented.The tech stac
 
 ## Souce Code:
 The source code for the above project is:
+
+https://github.com/pragyasingh-29/The-Paradise
 
