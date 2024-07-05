@@ -11,8 +11,7 @@ http://theparadiseroombooking.000webhostapp.com/
 
 ## Description
 
-This is a website for a particular hotel where the user could book the room , look for the rooms available.
-Cancel booking functionality and billing has also been implemented.The tech stack used has been mentioned above.
+This website is designed for a hotel where users can book rooms and check room availability. It also includes functionalities for canceling bookings and managing billing. The tech stack used for this project includes Bootstrap, PHP, Mysql and other technologies mentioned earlier.
 
 ## Sample Images of the Interface
 
