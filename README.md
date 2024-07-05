@@ -1,4 +1,4 @@
-# The Paradise - Web Development Based Online Hotel Room Booking Website
+# StayEase - Online Hotel Room Booking Website
 
 
 ## Live Project Link:
