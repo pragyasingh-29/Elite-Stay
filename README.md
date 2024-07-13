@@ -1,9 +1,6 @@
 # StayEase - Online Hotel Room Booking Website
 
 
-## Live Project Link:
-
-http://theparadiseroombooking.000webhostapp.com/
 
 ## Tech Stack Used:
 
